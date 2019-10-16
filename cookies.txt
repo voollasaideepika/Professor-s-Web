@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.iqonic.design	TRUE	/	FALSE	1999999999	__cfduid	d6e3794083ba6a0a330ada95f26fedbda1568741435
+
